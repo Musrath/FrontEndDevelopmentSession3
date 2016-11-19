@@ -1,0 +1,26 @@
+div>div {
+    font-size:20px;
+	padding: 30px 40px;
+    width: 468px;
+    border: 2px solid red;
+	margin: 54px 22px;
+}
+
+img {
+	width:450px;
+	height:750px;
+	/*position: absolute;*/
+}
+span {
+	border: 1px solid blue;
+	border-radius: 7px;
+}
+#border-box {
+    width: 600px;
+    border: 1px solid blue;
+	/*background-image: url(https://thumbs.dreamstime.com/x/typical-water-swimmingpool-texture-10090234.jpg) ;*/
+}
+#heading {
+	color:green;
+	border:none;
+}
